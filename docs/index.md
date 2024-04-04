@@ -7,6 +7,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="men11010@byui.edu">men11010@byui.edu</a>
+| <a href="https://justicemenyah.com">JusticeMenyah</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/justicemenyah/">LinkedIn</a>
 | <a href="https://github.com/kweku101-resumes">GitHub</a>
@@ -21,31 +22,52 @@ __LDS Business College__, Salt Lake City, UT
 
 - Full academic scholarship with 4.0 GPA -->
 
-`Expected 2025`
+`Expected April 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
+
+__Major: Supply Chain Management__
+
+__Minor: Business Analytics__
 
 - 3.65 Major GPA
 
 
 ## Related Experience
 
+`January 2023 - Present`
+__Online Academic Support - Online Grader__
+
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Evaluate student assignments for proficiency in Excel functions, ensuring detailed feedback aligns with defined grading criteria.
+- Collaborate with instructors to maintain a high alignment rate with course objectives. 
+- ILeveraged Speed grader to cut down grading time by 60% while still providing accurate and detailed feedback to students.
+- Assessed over 1000 student assignments with a mean accuracy rate of 98%.
+- 
 ### Internships
 
-`Sept 2023 - Dec 2023`
-__Pacific Northwest National Lab__, Rexburg, ID
+`September 2023 - December 2023`
+__Production Leadership Intern (Warehouse)__
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+__Taylor Corporation__, Rexburg, ID
 
-### Data Science Lead
+- Receiving materials and packages from various carriers such as Fedex, DHL, UPS.
+- Developed and delivered training programs, improving team performance and operational knowledge through effective 
+communication and leadership techniques.
+- Utilizing forklifts to load and unload materials on racks, optimizing warehouse space and accessibility.
+- Enhanced warehouse operations by applying attention to detail and strong organizational skills, ensuring efficient project execution 
+and inventory management.
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Student Consultant
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`September 2022 - December 2022`
+__Small Business Management__
+
+__Gladden Handyman, LLC__, Hesperus, Colorado
+
+- Developed and refined online conversion funnels, enhancing conversion rates and revenue by 80%.
+- Implemented digital marketing strategies boosted website conversion rates by 62% within a single month.
+- Improved customer retention rates by 25% conducting a customer satisfaction survey and developing a customer-retention model.
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
@@ -60,30 +82,20 @@ __Good2Go__, Consultant
 __Imagine Learning__
 
 - Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2007-2009`
+__Service Missionary__, Ghana, Accra
 
 
 
-<!-- ### Footer
+<!-- ### Footer -->
 
-Last updated: May 2013 -->
+
+
+Last updated: April 2024
 
 
