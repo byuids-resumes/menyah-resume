@@ -43,7 +43,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Collaborate with instructors to maintain a high alignment rate with course objectives. 
 - ILeveraged Speed grader to cut down grading time by 60% while still providing accurate and detailed feedback to students.
 - Assessed over 1000 student assignments with a mean accuracy rate of 98%.
-- 
+  
 ### Internships
 
 `September 2023 - December 2023`
