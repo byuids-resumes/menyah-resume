@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Justice Menyah's Resume
+title: Justice Menyah
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+<!-- # Brigham Young
+The second prophet of The Church of Jesus Christ of Latter-day Saints. -->
 
 <div id="webaddress">
 <a href="men11010@byui.edu">men11010@byui.edu</a>
@@ -13,14 +13,9 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 | <a href="https://github.com/kweku101-resumes">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-<!-- `2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA -->
 
 `Expected April 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
@@ -69,27 +64,26 @@ __Gladden Handyman, LLC__, Hesperus, Colorado
 - Implemented digital marketing strategies boosted website conversion rates by 62% within a single month.
 - Improved customer retention rates by 25% conducting a customer satisfaction survey and developing a customer-retention model.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`May 2021 - July 2022`
+__Freelancing Web Designer__
 
-### Data Science Consulting Team
+__MainLinc__, Tampico, Mexico
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-
-
+- Built and optimized converting funnels for local and online businesses, resulting in 80% increased conversions and revenue.
+- Executed online marketing campaigns to drive lead generation, resulting in a 62% increase in website conversions in a month.
+- Built websites for local businesses, leveraging industry best practices and latest web technologies resulting in 70% conversions.
 
 ## Service and Work History
 
-`2007-2009`
-__Service Missionary__, Ghana, Accra
+`November 2007 - November 2009`
+__Full-time Voluntary Mission__
 
+__The Church of Jesus Christ of Latter-Day Saints__, Ghana, Accra
+
+- Supervised 100 missionaries from different countries: Ghana, the USA, Tonga, Australia, New Zealand, Nigeria, South Africa.
+- Collaborated with mission companions from diverse nations, working in more than 80 hours of work per week.
+- Trained over 100 mission district leaders on various ways to proselyte and work with church members.
 
 
 <!-- ### Footer -->
